@@ -1,0 +1,674 @@
+,Airline,Aeroplane,Date,Departure_Time,Arrival_Time,Source,Destination,Stops,Duration,Price
+0,Vistara,UK-975,"Sat, 13 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,5955
+1,Vistara,UK-927,"Sat, 13 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,5955
+2,Go First,G8-2501,"Sat, 13 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,5955
+3,Vistara,UK-951,"Sat, 13 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,5955
+4,Vistara,UK-933,"Sat, 13 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,5955
+5,Vistara,UK-941,"Sat, 13 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,5955
+6,Vistara,UK-985,"Sat, 13 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,5955
+7,Vistara,UK-953,"Sat, 13 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,5955
+8,Vistara,UK-943,"Sat, 13 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,5955
+9,Vistara,UK-995,"Sat, 13 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,5955
+10,Vistara,UK-993,"Sat, 13 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,5955
+11,Go First,G8-323,"Sat, 13 Aug 2022",18:45,21:00,New Delhi,Mumbai,Non Stop,2h 15m,5955
+12,Vistara,UK-977,"Sat, 13 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,5955
+13,Go First,G8-330,"Sat, 13 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,5955
+14,Go First,G8-354,"Sat, 13 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,5955
+15,Vistara,UK-963,"Sat, 13 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,5955
+16,Vistara,UK-945,"Sat, 13 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,5955
+17,Vistara,UK-955,"Sat, 13 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,5955
+18,Vistara,UK-929/918,"Sat, 13 Aug 2022",21:20,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,8h 55m,6092
+19,Vistara,UK-969/918,"Sat, 13 Aug 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,12h 05m,6092
+20,Vistara,UK-929/936,"Sat, 13 Aug 2022",21:20,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,12h 20m,6092
+21,Vistara,UK-969/936,"Sat, 13 Aug 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,15h 30m,6092
+22,Vistara,UK-959/918,"Sat, 13 Aug 2022",06:30,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,23h 45m,6092
+23,Vistara,UK-929/956,"Sat, 13 Aug 2022",21:20,"23:15
++ 1 day",New Delhi,Mumbai,1 Stop,25h 55m,6092
+24,Air India,AI-887,"Sat, 13 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,6480
+25,Vistara,UK-975,"Sat, 13 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,5955
+26,Vistara,UK-927,"Sat, 13 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,5955
+27,Go First,G8-2501,"Sat, 13 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,5955
+28,Vistara,UK-951,"Sat, 13 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,5955
+29,Vistara,UK-933,"Sat, 13 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,5955
+30,Vistara,UK-941,"Sat, 13 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,5955
+31,Vistara,UK-985,"Sat, 13 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,5955
+32,Vistara,UK-953,"Sat, 13 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,5955
+33,Vistara,UK-943,"Sat, 13 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,5955
+34,Vistara,UK-995,"Sat, 13 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,5955
+35,Vistara,UK-993,"Sat, 13 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,5955
+36,Go First,G8-323,"Sat, 13 Aug 2022",18:45,21:00,New Delhi,Mumbai,Non Stop,2h 15m,5955
+37,Vistara,UK-977,"Sat, 13 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,5955
+38,Go First,G8-330,"Sat, 13 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,5955
+39,Go First,G8-354,"Sat, 13 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,5955
+40,Vistara,UK-963,"Sat, 13 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,5955
+41,Vistara,UK-945,"Sat, 13 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,5955
+42,Vistara,UK-955,"Sat, 13 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,5955
+43,Vistara,UK-929/918,"Sat, 13 Aug 2022",21:20,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,8h 55m,6092
+44,Vistara,UK-969/918,"Sat, 13 Aug 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,12h 05m,6092
+45,Vistara,UK-929/936,"Sat, 13 Aug 2022",21:20,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,12h 20m,6092
+46,Vistara,UK-969/936,"Sat, 13 Aug 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,15h 30m,6092
+47,Vistara,UK-959/918,"Sat, 13 Aug 2022",06:30,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,23h 45m,6092
+48,Vistara,UK-929/956,"Sat, 13 Aug 2022",21:20,"23:15
++ 1 day",New Delhi,Mumbai,1 Stop,25h 55m,6092
+49,Air India,AI-887,"Sat, 13 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,6480
+50,Go First,G8-334,"Mon, 15 Aug 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,5955
+51,Go First,G8-530,"Mon, 15 Aug 2022",07:00,09:15,New Delhi,Mumbai,Non Stop,2h 15m,5955
+52,Vistara,UK-975,"Mon, 15 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+53,Vistara,UK-927,"Mon, 15 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+54,Vistara,UK-943,"Mon, 15 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+55,Vistara,UK-995,"Mon, 15 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+56,Vistara,UK-993,"Mon, 15 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+57,Vistara,UK-977,"Mon, 15 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+58,Vistara,UK-963,"Mon, 15 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+59,IndiGo,6E-5023,"Mon, 15 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+60,IndiGo,6E-6814,"Mon, 15 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+61,IndiGo,6E-5342,"Mon, 15 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+62,IndiGo,6E-6278,"Mon, 15 Aug 2022",08:45,11:00,New Delhi,Mumbai,Non Stop,2h 15m,8579
+63,IndiGo,6E-2114,"Mon, 15 Aug 2022",21:45,"00:10
++ 1 day",New Delhi,Mumbai,Non Stop,2h 25m,8579
+64,Go First,G8-719/459,"Mon, 15 Aug 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,8579
+65,IndiGo,6E-184/5268,"Mon, 15 Aug 2022",09:50,14:15,New Delhi,Mumbai,1 Stop,4h 25m,8579
+66,IndiGo,6E-6373/6425,"Mon, 15 Aug 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,8579
+67,IndiGo,6E-2033/605,"Mon, 15 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,8579
+68,IndiGo,6E-184/5274,"Mon, 15 Aug 2022",09:50,15:45,New Delhi,Mumbai,1 Stop,5h 55m,8579
+69,IndiGo,6E-5328/6292,"Mon, 15 Aug 2022",09:35,16:55,New Delhi,Mumbai,1 Stop,7h 20m,8579
+70,SpiceJet,SG-8751/116,"Mon, 15 Aug 2022",11:30,18:55,New Delhi,Mumbai,1 Stop,7h 25m,8579
+71,IndiGo,6E-2033/6004,"Mon, 15 Aug 2022",00:15,08:00,New Delhi,Mumbai,1 Stop,7h 45m,8579
+72,IndiGo,6E-6373/5268,"Mon, 15 Aug 2022",06:30,14:15,New Delhi,Mumbai,1 Stop,7h 45m,8579
+73,IndiGo,6E-5005/5329,"Mon, 15 Aug 2022",05:15,13:15,New Delhi,Mumbai,1 Stop,8h 00m,8579
+74,IndiGo,6E-786/6571,"Mon, 15 Aug 2022",05:05,13:20,New Delhi,Mumbai,1 Stop,8h 15m,8579
+75,Vistara,UK-975,"Tue, 16 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+76,Vistara,UK-927,"Tue, 16 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+77,Vistara,UK-933,"Tue, 16 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+78,Vistara,UK-941,"Tue, 16 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+79,Vistara,UK-953,"Tue, 16 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,8578
+80,Vistara,UK-995,"Tue, 16 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+81,Vistara,UK-993,"Tue, 16 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+82,Vistara,UK-977,"Tue, 16 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+83,Vistara,UK-945,"Tue, 16 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+84,Vistara,UK-955,"Tue, 16 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+85,IndiGo,6E-2009,"Tue, 16 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+86,IndiGo,6E-2519,"Tue, 16 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+87,Go First,G8-2501,"Tue, 16 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+88,IndiGo,6E-6261,"Tue, 16 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8579
+89,Go First,G8-530,"Tue, 16 Aug 2022",07:00,09:15,New Delhi,Mumbai,Non Stop,2h 15m,8579
+90,SpiceJet,SG-8701,"Tue, 16 Aug 2022",07:20,09:35,New Delhi,Mumbai,Non Stop,2h 15m,8579
+91,SpiceJet,SG-8169,"Tue, 16 Aug 2022",20:00,22:15,New Delhi,Mumbai,Non Stop,2h 15m,8579
+92,Go First,G8-354,"Tue, 16 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,8579
+93,IndiGo,6E-153/6794,"Tue, 16 Aug 2022",19:35,"00:40
++ 1 day",New Delhi,Mumbai,1 Stop,5h 05m,8579
+94,Air Asia,I5-744/632,"Tue, 16 Aug 2022",08:00,14:05,New Delhi,Mumbai,1 Stop,6h 05m,8579
+95,SpiceJet,SG-272/945,"Tue, 16 Aug 2022",09:50,16:10,New Delhi,Mumbai,1 Stop,6h 20m,8579
+96,IndiGo,6E-5005/5329,"Tue, 16 Aug 2022",05:15,13:15,New Delhi,Mumbai,1 Stop,8h 00m,8579
+97,IndiGo,6E-2066/6253,"Tue, 16 Aug 2022",15:20,"00:40
++ 1 day",New Delhi,Mumbai,1 Stop,9h 20m,8579
+98,SpiceJet,SG-2935/3002,"Tue, 16 Aug 2022",16:45,"10:55
++ 1 day",New Delhi,Mumbai,1 Stop,18h 10m,8579
+99,SpiceJet,SG-8389/392,"Tue, 16 Aug 2022",18:55,"13:40
++ 1 day",New Delhi,Mumbai,1 Stop,18h 45m,8579
+100,Vistara,UK-975,"Wed, 17 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+101,Vistara,UK-927,"Wed, 17 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+102,Vistara,UK-951,"Wed, 17 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+103,Vistara,UK-933,"Wed, 17 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+104,Vistara,UK-941,"Wed, 17 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+105,Vistara,UK-985,"Wed, 17 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+106,Vistara,UK-953,"Wed, 17 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,8578
+107,Vistara,UK-995,"Wed, 17 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+108,Vistara,UK-993,"Wed, 17 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+109,Vistara,UK-977,"Wed, 17 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+110,Vistara,UK-963,"Wed, 17 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+111,Vistara,UK-945,"Wed, 17 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+112,Vistara,UK-955,"Wed, 17 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+113,IndiGo,6E-2009,"Wed, 17 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+114,IndiGo,6E-2138,"Wed, 17 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+115,Go First,G8-346,"Wed, 17 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+116,IndiGo,6E-5023,"Wed, 17 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+117,IndiGo,6E-5342,"Wed, 17 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+118,IndiGo,6E-5318,"Wed, 17 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+119,IndiGo,6E-2519,"Wed, 17 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+120,Go First,G8-2501,"Wed, 17 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+121,IndiGo,6E-2112,"Wed, 17 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+122,Go First,G8-334,"Wed, 17 Aug 2022",07:40,09:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+123,IndiGo,6E-2176,"Wed, 17 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+124,Go First,G8-336,"Wed, 17 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+125,Vistara,UK-975,"Thu, 18 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+126,Vistara,UK-927,"Thu, 18 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+127,Vistara,UK-951,"Thu, 18 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+128,Vistara,UK-933,"Thu, 18 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+129,Vistara,UK-941,"Thu, 18 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+130,Vistara,UK-995,"Thu, 18 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+131,Vistara,UK-993,"Thu, 18 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+132,Vistara,UK-963,"Thu, 18 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+133,Vistara,UK-945,"Thu, 18 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+134,Vistara,UK-955,"Thu, 18 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+135,SpiceJet,SG-8701,"Thu, 18 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+136,SpiceJet,SG-8169,"Thu, 18 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+137,SpiceJet,SG-8171/487,"Thu, 18 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+138,Air Asia,I5-798/472,"Thu, 18 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+139,SpiceJet,SG-3701/2902,"Thu, 18 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+140,Air Asia,I5-552/472,"Thu, 18 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+141,SpiceJet,SG-957/452,"Thu, 18 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+142,SpiceJet,SG-8171/452,"Thu, 18 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+143,SpiceJet,SG-2935/3002,"Thu, 18 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+144,SpiceJet,SG-8389/392,"Thu, 18 Aug 2022",16:15,18:25,New Delhi,Mumbai,Non Stop,2h 10m,8579
+145,SpiceJet,SG-8492/951,"Thu, 18 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8579
+146,SpiceJet,SG-957/454,"Thu, 18 Aug 2022",07:20,09:35,New Delhi,Mumbai,Non Stop,2h 15m,8579
+147,SpiceJet,6E-6278,"Thu, 18 Aug 2022",08:45,11:00,New Delhi,Mumbai,Non Stop,2h 15m,8579
+148,SpiceJet,6E-2017,"Thu, 18 Aug 2022",18:10,20:25,New Delhi,Mumbai,Non Stop,2h 15m,8579
+149,SpiceJet,SG-8169,"Thu, 18 Aug 2022",20:00,22:15,New Delhi,Mumbai,Non Stop,2h 15m,8579
+150,Vistara,UK-975,"Fri, 19 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+151,Vistara,UK-927,"Fri, 19 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+152,Vistara,UK-951,"Fri, 19 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+153,Vistara,UK-933,"Fri, 19 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+154,Vistara,UK-943,"Fri, 19 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+155,Vistara,UK-995,"Fri, 19 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+156,Vistara,UK-993,"Fri, 19 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+157,Vistara,UK-963,"Fri, 19 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+158,Vistara,UK-945,"Fri, 19 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+159,IndiGo,6E-2009,"Fri, 19 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+160,IndiGo,6E-2138,"Fri, 19 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+161,Go First,G8-346,"Fri, 19 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+162,IndiGo,6E-5023,"Fri, 19 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+163,IndiGo,6E-6814,"Fri, 19 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+164,IndiGo,6E-5342,"Fri, 19 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+165,IndiGo,6E-5318,"Fri, 19 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+166,IndiGo,6E-2519,"Fri, 19 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+167,Go First,G8-2501,"Fri, 19 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+168,IndiGo,6E-2112,"Fri, 19 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+169,IndiGo,6E-2176,"Fri, 19 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+170,Go First,G8-336,"Fri, 19 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+171,IndiGo,6E-5306,"Fri, 19 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+172,IndiGo,6E-864,"Fri, 19 Aug 2022",16:15,18:25,New Delhi,Mumbai,Non Stop,2h 10m,8579
+173,SpiceJet,SG-8709,"Fri, 19 Aug 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,8579
+174,IndiGo,6E-6261,"Fri, 19 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8579
+175,Air India,AI-443/400,"Sat, 20 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+176,Vistara,UK-975,"Sat, 20 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+177,Vistara,UK-927,"Sat, 20 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+178,Vistara,UK-951,"Sat, 20 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+179,Vistara,UK-933,"Sat, 20 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+180,Vistara,UK-941,"Sat, 20 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+181,Vistara,UK-985,"Sat, 20 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+182,Vistara,UK-943,"Sat, 20 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+183,Vistara,UK-995,"Sat, 20 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+184,Vistara,UK-993,"Sat, 20 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+185,Vistara,UK-977,"Sat, 20 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+186,Vistara,UK-963,"Sat, 20 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+187,Vistara,UK-945,"Sat, 20 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+188,Vistara,UK-955,"Sat, 20 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+189,IndiGo,6E-2009,"Sat, 20 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+190,IndiGo,6E-2138,"Sat, 20 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+191,Go First,G8-346,"Sat, 20 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+192,IndiGo,6E-5023,"Sat, 20 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+193,IndiGo,6E-6814,"Sat, 20 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+194,IndiGo,6E-5342,"Sat, 20 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+195,IndiGo,6E-5318,"Sat, 20 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+196,IndiGo,6E-2519,"Sat, 20 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+197,Go First,G8-2501,"Sat, 20 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+198,IndiGo,6E-2176,"Sat, 20 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+199,Go First,G8-336,"Sat, 20 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+200,Air India,AI-443/400,"Sun, 21 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+201,IndiGo,6E-2009,"Sun, 21 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+202,IndiGo,6E-5023,"Sun, 21 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+203,IndiGo,6E-6814,"Sun, 21 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+204,IndiGo,6E-5318,"Sun, 21 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+205,IndiGo,6E-2519,"Sun, 21 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+206,SpiceJet,SG-8709,"Sun, 21 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+207,IndiGo,6E-6261,"Sun, 21 Aug 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,8579
+208,SpiceJet,SG-8701,"Sun, 21 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8579
+209,IndiGo,6E-6278,"Sun, 21 Aug 2022",05:10,07:25,New Delhi,Mumbai,Non Stop,2h 15m,8579
+210,SpiceJet,SG-8701,"Sun, 21 Aug 2022",07:20,09:35,New Delhi,Mumbai,Non Stop,2h 15m,8579
+211,SpiceJet,6E-6278,"Sun, 21 Aug 2022",08:45,11:00,New Delhi,Mumbai,Non Stop,2h 15m,8579
+212,IndiGo,G8-338,"Sun, 21 Aug 2022",10:55,13:10,New Delhi,Mumbai,Non Stop,2h 15m,8579
+213,SpiceJet,SG-8169,"Sun, 21 Aug 2022",20:00,22:15,New Delhi,Mumbai,Non Stop,2h 15m,8579
+214,IndiGo,G8-330,"Sun, 21 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,8579
+215,IndiGo,SG-711,"Sun, 21 Aug 2022",21:40,23:55,New Delhi,Mumbai,Non Stop,2h 15m,8579
+216,IndiGo,G8-354,"Sun, 21 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,8579
+217,Air Asia,6E-2129,"Sun, 21 Aug 2022",08:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,8579
+218,SpiceJet,G8-719/459,"Sun, 21 Aug 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,8579
+219,IndiGo,SG-2962/3002,"Sun, 21 Aug 2022",06:15,10:55,New Delhi,Mumbai,1 Stop,4h 40m,8579
+220,IndiGo,6E-6373/6425,"Sun, 21 Aug 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,8579
+221,SpiceJet,6E-2033/605,"Sun, 21 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,8579
+222,IndiGo,6E-2077/6222,"Sun, 21 Aug 2022",05:20,10:35,New Delhi,Mumbai,1 Stop,5h 15m,8579
+223,IndiGo,G8-190/3185,"Sun, 21 Aug 2022",05:20,10:45,New Delhi,Mumbai,1 Stop,5h 25m,8579
+224,IndiGo,I5-744/632,"Sun, 21 Aug 2022",08:00,14:05,New Delhi,Mumbai,1 Stop,6h 05m,8579
+225,Air India,AI-443/400,"Mon, 22 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+226,Vistara,UK-975,"Mon, 22 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+227,Vistara,UK-927,"Mon, 22 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+228,Vistara,UK-951,"Mon, 22 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+229,Vistara,UK-933,"Mon, 22 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+230,Vistara,UK-941,"Mon, 22 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+231,Vistara,UK-985,"Mon, 22 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+232,Vistara,UK-953,"Mon, 22 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,8578
+233,Vistara,UK-995,"Mon, 22 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+234,Vistara,UK-993,"Mon, 22 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+235,Vistara,UK-977,"Mon, 22 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+236,Vistara,UK-945,"Mon, 22 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+237,Vistara,UK-955,"Mon, 22 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+238,SpiceJet,SG-8709,"Mon, 22 Aug 2022",19:00,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+239,SpiceJet,SG-8701,"Mon, 22 Aug 2022",07:20,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+240,SpiceJet,SG-8169,"Mon, 22 Aug 2022",20:00,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+241,SpiceJet,SG-711,"Mon, 22 Aug 2022",21:40,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+242,SpiceJet,SG-2962/3002,"Mon, 22 Aug 2022",06:15,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+243,Air Asia,I5-744/632,"Mon, 22 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+244,SpiceJet,SG-361/168,"Mon, 22 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+245,SpiceJet,SG-8171/487,"Mon, 22 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+246,SpiceJet,SG-8751/116,"Mon, 22 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+247,Air Asia,I5-798/472,"Mon, 22 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+248,Air Asia,I5-773/335,"Mon, 22 Aug 2022",16:15,18:25,New Delhi,Mumbai,Non Stop,2h 10m,8579
+249,SpiceJet,SG-957/452,"Mon, 22 Aug 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,8579
+250,Air India,AI-443/400,"Tue, 23 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+251,Vistara,UK-975,"Tue, 23 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+252,Vistara,UK-927,"Tue, 23 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+253,Vistara,UK-951,"Tue, 23 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+254,Vistara,UK-933,"Tue, 23 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+255,Vistara,UK-941,"Tue, 23 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+256,Vistara,UK-985,"Tue, 23 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+257,Vistara,UK-953,"Tue, 23 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,8578
+258,Vistara,UK-943,"Tue, 23 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+259,Vistara,UK-995,"Tue, 23 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+260,Vistara,UK-993,"Tue, 23 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+261,Vistara,UK-977,"Tue, 23 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+262,Vistara,UK-963,"Tue, 23 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+263,Vistara,UK-945,"Tue, 23 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+264,Vistara,UK-955,"Tue, 23 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+265,IndiGo,6E-2009,"Tue, 23 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+266,IndiGo,6E-2138,"Tue, 23 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+267,Go First,G8-346,"Tue, 23 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+268,IndiGo,6E-5023,"Tue, 23 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+269,IndiGo,6E-6814,"Tue, 23 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+270,IndiGo,6E-5342,"Tue, 23 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+271,IndiGo,6E-5318,"Tue, 23 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+272,IndiGo,6E-2519,"Tue, 23 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+273,Go First,G8-2501,"Tue, 23 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+274,IndiGo,6E-2112,"Tue, 23 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+275,Air India,AI-443/400,"Wed, 24 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+276,Vistara,UK-975,"Wed, 24 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+277,Vistara,UK-927,"Wed, 24 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+278,Vistara,UK-951,"Wed, 24 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+279,Vistara,UK-933,"Wed, 24 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+280,Vistara,UK-941,"Wed, 24 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+281,Vistara,UK-985,"Wed, 24 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+282,Vistara,UK-943,"Wed, 24 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+283,Vistara,UK-995,"Wed, 24 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+284,Vistara,UK-993,"Wed, 24 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+285,Vistara,UK-977,"Wed, 24 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+286,Vistara,UK-963,"Wed, 24 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+287,Vistara,UK-945,"Wed, 24 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+288,Vistara,UK-955,"Wed, 24 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+289,IndiGo,6E-2009,"Wed, 24 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+290,IndiGo,6E-2138,"Wed, 24 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+291,Go First,G8-346,"Wed, 24 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+292,IndiGo,6E-5023,"Wed, 24 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+293,IndiGo,6E-6814,"Wed, 24 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+294,IndiGo,6E-5342,"Wed, 24 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+295,IndiGo,6E-5318,"Wed, 24 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+296,IndiGo,6E-2519,"Wed, 24 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+297,Go First,G8-2501,"Wed, 24 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+298,IndiGo,6E-2112,"Wed, 24 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+299,IndiGo,6E-2176,"Wed, 24 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+300,Air India,AI-443/400,"Thu, 25 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+301,Vistara,UK-975,"Thu, 25 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+302,Vistara,UK-927,"Thu, 25 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+303,Vistara,UK-951,"Thu, 25 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+304,Vistara,UK-933,"Thu, 25 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+305,Vistara,UK-941,"Thu, 25 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+306,Vistara,UK-985,"Thu, 25 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,8578
+307,Vistara,UK-953,"Thu, 25 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,8578
+308,Vistara,UK-943,"Thu, 25 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+309,Vistara,UK-995,"Thu, 25 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+310,Vistara,UK-993,"Thu, 25 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+311,Vistara,UK-977,"Thu, 25 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,8578
+312,Vistara,UK-963,"Thu, 25 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+313,Vistara,UK-945,"Thu, 25 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+314,Vistara,UK-955,"Thu, 25 Aug 2022",17:45,20:05,New Delhi,Mumbai,Non Stop,2h 20m,8578
+315,IndiGo,6E-2009,"Thu, 25 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+316,IndiGo,6E-2138,"Thu, 25 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+317,Go First,G8-346,"Thu, 25 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+318,IndiGo,6E-5023,"Thu, 25 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+319,IndiGo,6E-6814,"Thu, 25 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+320,IndiGo,6E-5342,"Thu, 25 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+321,IndiGo,6E-5318,"Thu, 25 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+322,IndiGo,6E-2519,"Thu, 25 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+323,Go First,G8-2501,"Thu, 25 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+324,IndiGo,6E-2112,"Thu, 25 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+325,Air India,AI-443/400,"Fri, 26 Aug 2022",05:20,10:00,New Delhi,Mumbai,1 Stop,4h 40m,8337
+326,Air India,AI-433/634,"Fri, 26 Aug 2022",11:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,22h 30m,8547
+327,Vistara,UK-975,"Fri, 26 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,8578
+328,Vistara,UK-927,"Fri, 26 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,8578
+329,Vistara,UK-951,"Fri, 26 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,8578
+330,Vistara,UK-933,"Fri, 26 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,8578
+331,Vistara,UK-941,"Fri, 26 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,8578
+332,Vistara,UK-943,"Fri, 26 Aug 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 15m,8578
+333,Vistara,UK-995,"Fri, 26 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,8578
+334,Vistara,UK-993,"Fri, 26 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,8578
+335,Vistara,UK-963,"Fri, 26 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,8578
+336,Vistara,UK-945,"Fri, 26 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,8578
+337,IndiGo,6E-2009,"Fri, 26 Aug 2022",02:10,04:10,New Delhi,Mumbai,Non Stop,2h 00m,8579
+338,IndiGo,6E-2138,"Fri, 26 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,8579
+339,Go First,G8-346,"Fri, 26 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,8579
+340,IndiGo,6E-5023,"Fri, 26 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,8579
+341,IndiGo,6E-6814,"Fri, 26 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,8579
+342,IndiGo,6E-5342,"Fri, 26 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,8579
+343,IndiGo,6E-5318,"Fri, 26 Aug 2022",17:00,19:05,New Delhi,Mumbai,Non Stop,2h 05m,8579
+344,IndiGo,6E-2519,"Fri, 26 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,8579
+345,Go First,G8-2501,"Fri, 26 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,8579
+346,IndiGo,6E-2112,"Fri, 26 Aug 2022",05:30,07:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+347,IndiGo,6E-2176,"Fri, 26 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+348,Go First,G8-336,"Fri, 26 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,8579
+349,IndiGo,6E-5306,"Fri, 26 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,8579
+350,Go First,G8-719/459,"Sat, 27 Aug 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+351,Go First,G8-717/537,"Sat, 27 Aug 2022",17:00,21:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+352,Go First,G8-717/413,"Sat, 27 Aug 2022",17:00,23:35,New Delhi,Mumbai,1 Stop,6h 35m,4042
+353,Go First,G8-719/2505,"Sat, 27 Aug 2022",06:00,15:10,New Delhi,Mumbai,1 Stop,9h 10m,4042
+354,Go First,G8-346,"Sat, 27 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,4108
+355,Go First,G8-2501,"Sat, 27 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,4108
+356,Go First,G8-336,"Sat, 27 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,4108
+357,Go First,G8-323,"Sat, 27 Aug 2022",18:20,20:35,New Delhi,Mumbai,Non Stop,2h 15m,4108
+358,Go First,G8-330,"Sat, 27 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,4108
+359,Go First,G8-354,"Sat, 27 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,4108
+360,IndiGo,6E-2138,"Sat, 27 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,4110
+361,IndiGo,6E-5023,"Sat, 27 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+362,IndiGo,6E-6814,"Sat, 27 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+363,IndiGo,6E-5342,"Sat, 27 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+364,IndiGo,6E-2519,"Sat, 27 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+365,IndiGo,6E-2176,"Sat, 27 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+366,IndiGo,6E-5306,"Sat, 27 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+367,IndiGo,6E-2129,"Sat, 27 Aug 2022",08:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,4110
+368,IndiGo,6E-6373/6425,"Sat, 27 Aug 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,4225
+369,IndiGo,6E-2033/605,"Sat, 27 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+370,IndiGo,6E-2033/6004,"Sat, 27 Aug 2022",00:15,08:00,New Delhi,Mumbai,1 Stop,7h 45m,4225
+371,IndiGo,6E-6373/5268,"Sat, 27 Aug 2022",06:30,14:15,New Delhi,Mumbai,1 Stop,7h 45m,4225
+372,IndiGo,6E-6373/5274,"Sat, 27 Aug 2022",06:30,15:45,New Delhi,Mumbai,1 Stop,9h 15m,4225
+373,Air India,AI-887,"Sat, 27 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+374,Air India,AI-665,"Sat, 27 Aug 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+375,IndiGo,6E-2138,"Sun, 28 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,4110
+376,IndiGo,6E-5023,"Sun, 28 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+377,IndiGo,6E-6814,"Sun, 28 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+378,IndiGo,6E-5342,"Sun, 28 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+379,IndiGo,6E-2519,"Sun, 28 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+380,IndiGo,6E-2129,"Sun, 28 Aug 2022",08:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,4110
+381,IndiGo,6E-6373/6425,"Sun, 28 Aug 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,4225
+382,IndiGo,6E-2033/605,"Sun, 28 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+383,IndiGo,6E-607/605,"Sun, 28 Aug 2022",22:30,"05:30
++ 1 day",New Delhi,Mumbai,1 Stop,7h 00m,4225
+384,IndiGo,6E-2033/6004,"Sun, 28 Aug 2022",00:15,08:00,New Delhi,Mumbai,1 Stop,7h 45m,4225
+385,IndiGo,6E-2033/5268,"Sun, 28 Aug 2022",00:15,08:35,New Delhi,Mumbai,1 Stop,8h 20m,4225
+386,Air India,AI-887,"Sun, 28 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+387,Air India,AI-665,"Sun, 28 Aug 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+388,SpiceJet,SG-8709,"Sun, 28 Aug 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+389,Air India,AI-805,"Sun, 28 Aug 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+390,Air India,AI-814,"Sun, 28 Aug 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+391,Air India,AI-678,"Sun, 28 Aug 2022",09:00,11:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+392,Air India,AI-441,"Sun, 28 Aug 2022",17:55,20:10,New Delhi,Mumbai,Non Stop,2h 15m,4228
+393,Air India,AI-624,"Sun, 28 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+394,SpiceJet,SG-8169,"Sun, 28 Aug 2022",20:00,22:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+395,Air India,AI-605,"Sun, 28 Aug 2022",21:15,23:35,New Delhi,Mumbai,Non Stop,2h 20m,4228
+396,Air India,AI-865,"Sun, 28 Aug 2022",10:00,12:35,New Delhi,Mumbai,Non Stop,2h 35m,4228
+397,Vistara,UK-929/918,"Sun, 28 Aug 2022",21:20,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,8h 55m,4281
+398,Vistara,UK-929/936,"Sun, 28 Aug 2022",21:20,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,12h 20m,4281
+399,Vistara,UK-959/956,"Sun, 28 Aug 2022",06:30,23:15,New Delhi,Mumbai,1 Stop,16h 45m,4281
+400,Air India,AI-887,"Mon, 29 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+401,Air India,AI-665,"Mon, 29 Aug 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+402,Air India,AI-805,"Mon, 29 Aug 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+403,Air India,AI-814,"Mon, 29 Aug 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+404,Air India,AI-678,"Mon, 29 Aug 2022",09:00,11:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+405,Air India,AI-863,"Mon, 29 Aug 2022",14:00,16:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+406,Air India,AI-441,"Mon, 29 Aug 2022",17:55,20:10,New Delhi,Mumbai,Non Stop,2h 15m,4228
+407,Air India,AI-624,"Mon, 29 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+408,Air India,AI-605,"Mon, 29 Aug 2022",21:15,23:35,New Delhi,Mumbai,Non Stop,2h 20m,4228
+409,Air India,AI-865,"Mon, 29 Aug 2022",10:00,12:35,New Delhi,Mumbai,Non Stop,2h 35m,4228
+410,Vistara,UK-969/956,"Mon, 29 Aug 2022",18:10,23:15,New Delhi,Mumbai,1 Stop,5h 05m,4281
+411,Vistara,UK-969/918,"Mon, 29 Aug 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,12h 05m,4281
+412,Vistara,UK-969/936,"Mon, 29 Aug 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,15h 30m,4281
+413,Air India,AI-817/638,"Mon, 29 Aug 2022",05:15,22:05,New Delhi,Mumbai,1 Stop,16h 50m,4286
+414,Vistara,UK-975,"Mon, 29 Aug 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 00m,4506
+415,Vistara,UK-927,"Mon, 29 Aug 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 05m,4506
+416,Vistara,UK-951,"Mon, 29 Aug 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 10m,4506
+417,Vistara,UK-933,"Mon, 29 Aug 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 10m,4506
+418,Vistara,UK-941,"Mon, 29 Aug 2022",16:55,19:05,New Delhi,Mumbai,Non Stop,2h 10m,4506
+419,Vistara,UK-985,"Mon, 29 Aug 2022",19:45,21:55,New Delhi,Mumbai,Non Stop,2h 10m,4506
+420,Vistara,UK-995,"Mon, 29 Aug 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 15m,4506
+421,Vistara,UK-993,"Mon, 29 Aug 2022",12:45,15:00,New Delhi,Mumbai,Non Stop,2h 15m,4506
+422,Vistara,UK-977,"Mon, 29 Aug 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,4506
+423,Vistara,UK-963,"Mon, 29 Aug 2022",08:50,11:10,New Delhi,Mumbai,Non Stop,2h 20m,4506
+424,Vistara,UK-945,"Mon, 29 Aug 2022",11:40,14:00,New Delhi,Mumbai,Non Stop,2h 20m,4506
+425,Go First,G8-719/459,"Mon, 29 Aug 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+426,Go First,G8-717/537,"Mon, 29 Aug 2022",17:00,21:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+427,Go First,G8-717/413,"Mon, 29 Aug 2022",17:00,23:35,New Delhi,Mumbai,1 Stop,6h 35m,4042
+428,Go First,G8-719/2505,"Mon, 29 Aug 2022",06:00,15:10,New Delhi,Mumbai,1 Stop,9h 10m,4042
+429,Go First,G8-346,"Mon, 29 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,4108
+430,Go First,G8-2501,"Mon, 29 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,4108
+431,Go First,G8-336,"Mon, 29 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,4108
+432,Go First,G8-334,"Mon, 29 Aug 2022",08:00,10:15,New Delhi,Mumbai,Non Stop,2h 15m,4108
+433,Go First,G8-338,"Mon, 29 Aug 2022",10:55,13:10,New Delhi,Mumbai,Non Stop,2h 15m,4108
+434,Go First,G8-323,"Mon, 29 Aug 2022",18:20,20:35,New Delhi,Mumbai,Non Stop,2h 15m,4108
+435,Go First,G8-330,"Mon, 29 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,4108
+436,Go First,G8-354,"Mon, 29 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,4108
+437,IndiGo,6E-2138,"Mon, 29 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,4110
+438,IndiGo,6E-5023,"Mon, 29 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+439,IndiGo,6E-5342,"Mon, 29 Aug 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+440,IndiGo,6E-2519,"Mon, 29 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+441,IndiGo,6E-2176,"Mon, 29 Aug 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+442,IndiGo,6E-5306,"Mon, 29 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+443,IndiGo,6E-2033/605,"Mon, 29 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+444,IndiGo,6E-607/605,"Mon, 29 Aug 2022",22:30,"05:30
++ 1 day",New Delhi,Mumbai,1 Stop,7h 00m,4225
+445,IndiGo,6E-607/6004,"Mon, 29 Aug 2022",22:30,"08:00
++ 1 day",New Delhi,Mumbai,1 Stop,9h 30m,4225
+446,Air India,AI-887,"Mon, 29 Aug 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+447,Air India,AI-665,"Mon, 29 Aug 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+448,Air India,AI-805,"Mon, 29 Aug 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+449,Air India,AI-814,"Mon, 29 Aug 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+450,Go First,G8-719/459,"Tue, 30 Aug 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+451,Go First,G8-717/537,"Tue, 30 Aug 2022",17:00,21:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+452,Go First,G8-717/413,"Tue, 30 Aug 2022",17:00,23:35,New Delhi,Mumbai,1 Stop,6h 35m,4042
+453,Go First,G8-719/2505,"Tue, 30 Aug 2022",06:00,15:10,New Delhi,Mumbai,1 Stop,9h 10m,4042
+454,Go First,G8-346,"Tue, 30 Aug 2022",20:00,22:00,New Delhi,Mumbai,Non Stop,2h 00m,4108
+455,Go First,G8-2501,"Tue, 30 Aug 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,4108
+456,Go First,G8-336,"Tue, 30 Aug 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,4108
+457,Go First,G8-334,"Tue, 30 Aug 2022",08:00,10:15,New Delhi,Mumbai,Non Stop,2h 15m,4108
+458,Go First,G8-338,"Tue, 30 Aug 2022",10:55,13:10,New Delhi,Mumbai,Non Stop,2h 15m,4108
+459,Go First,G8-323,"Tue, 30 Aug 2022",18:45,21:00,New Delhi,Mumbai,Non Stop,2h 15m,4108
+460,Go First,G8-330,"Tue, 30 Aug 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,4108
+461,Go First,G8-354,"Tue, 30 Aug 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,4108
+462,Air India,AI-887,"Tue, 30 Aug 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,4110
+463,Air India,AI-665,"Tue, 30 Aug 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+464,SpiceJet,SG-8709,"Tue, 30 Aug 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+465,Air India,AI-805,"Tue, 30 Aug 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+466,Air India,AI-814,"Tue, 30 Aug 2022",15:10,17:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+467,Air India,AI-678,"Tue, 30 Aug 2022",08:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,4110
+468,Air India,AI-863,"Tue, 30 Aug 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,4225
+469,Air India,AI-441,"Tue, 30 Aug 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+470,Air India,AI-624,"Tue, 30 Aug 2022",04:45,11:20,New Delhi,Mumbai,1 Stop,6h 35m,4225
+471,SpiceJet,SG-8169,"Tue, 30 Aug 2022",22:30,"05:30
++ 1 day",New Delhi,Mumbai,1 Stop,7h 00m,4225
+472,Air India,AI-605,"Tue, 30 Aug 2022",00:15,08:00,New Delhi,Mumbai,1 Stop,7h 45m,4225
+473,Air India,AI-865,"Tue, 30 Aug 2022",06:30,14:15,New Delhi,Mumbai,1 Stop,7h 45m,4225
+474,Vistara,UK-953,"Tue, 30 Aug 2022",06:30,15:45,New Delhi,Mumbai,1 Stop,9h 15m,4225
+475,Air India,AI-887,"Wed, 31 Aug 2022",07:00,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+476,Air India,AI-665,"Wed, 31 Aug 2022",08:00,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+477,SpiceJet,SG-8709,"Wed, 31 Aug 2022",19:00,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+478,Air India,AI-805,"Wed, 31 Aug 2022",20:00,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+479,Air India,AI-814,"Wed, 31 Aug 2022",22:30,17:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+480,Air India,AI-678,"Wed, 31 Aug 2022",09:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,4110
+481,Air India,AI-863,"Wed, 31 Aug 2022",14:00,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+482,Air India,AI-441,"Wed, 31 Aug 2022",17:55,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+483,Air India,AI-624,"Wed, 31 Aug 2022",19:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+484,SpiceJet,SG-8169,"Wed, 31 Aug 2022",20:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+485,SpiceJet,SG-711,"Wed, 31 Aug 2022",21:40,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+486,Air India,AI-605,"Wed, 31 Aug 2022",21:15,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+487,Air India,AI-865,"Wed, 31 Aug 2022",10:00,11:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+488,Vistara,UK-953,"Wed, 31 Aug 2022",20:40,16:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+489,Vistara,UK-969/956,"Wed, 31 Aug 2022",18:10,20:10,New Delhi,Mumbai,Non Stop,2h 15m,4228
+490,Vistara,UK-969/918,"Wed, 31 Aug 2022",18:10,21:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+491,Vistara,UK-969/936,"Wed, 31 Aug 2022",20:00,22:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+492,Vistara,UK-959/956,"Wed, 31 Aug 2022",21:40,23:55,New Delhi,Mumbai,Non Stop,2h 15m,4228
+493,Vistara,UK-959/918,"Wed, 31 Aug 2022",21:15,23:35,New Delhi,Mumbai,Non Stop,2h 20m,4228
+494,Air India,AI-481/638,"Wed, 31 Aug 2022",10:00,12:35,New Delhi,Mumbai,Non Stop,2h 35m,4228
+495,Air India,AI-817/638,"Wed, 31 Aug 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,4233
+496,Vistara,UK-975,"Wed, 31 Aug 2022",18:10,23:15,New Delhi,Mumbai,1 Stop,5h 05m,4281
+497,Vistara,UK-927,"Wed, 31 Aug 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,12h 05m,4281
+498,Vistara,UK-951,"Wed, 31 Aug 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,15h 30m,4281
+499,Vistara,UK-933,"Wed, 31 Aug 2022",06:30,23:15,New Delhi,Mumbai,1 Stop,16h 45m,4281
+500,Air India,AI-887,"Thu, 1 Sep 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+501,Air India,AI-665,"Thu, 1 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+502,SpiceJet,SG-8709,"Thu, 1 Sep 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+503,Air India,AI-805,"Thu, 1 Sep 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+504,Air India,AI-814,"Thu, 1 Sep 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+505,SpiceJet,SG-8701,"Thu, 1 Sep 2022",07:20,09:35,New Delhi,Mumbai,Non Stop,2h 15m,4228
+506,Air India,AI-678,"Thu, 1 Sep 2022",09:00,11:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+507,Air India,AI-863,"Thu, 1 Sep 2022",14:00,16:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+508,Air India,AI-441,"Thu, 1 Sep 2022",17:55,20:10,New Delhi,Mumbai,Non Stop,2h 15m,4228
+509,Air India,AI-624,"Thu, 1 Sep 2022",19:00,21:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+510,SpiceJet,SG-8169,"Thu, 1 Sep 2022",19:45,22:00,New Delhi,Mumbai,Non Stop,2h 15m,4228
+511,SpiceJet,SG-711,"Thu, 1 Sep 2022",21:40,23:55,New Delhi,Mumbai,Non Stop,2h 15m,4228
+512,Air India,AI-605,"Thu, 1 Sep 2022",21:15,23:35,New Delhi,Mumbai,Non Stop,2h 20m,4228
+513,Air India,AI-865,"Thu, 1 Sep 2022",10:00,12:35,New Delhi,Mumbai,Non Stop,2h 35m,4228
+514,Vistara,UK-981,"Thu, 1 Sep 2022",21:55,23:55,New Delhi,Mumbai,Non Stop,2h 00m,4233
+515,Vistara,UK-953,"Thu, 1 Sep 2022",20:40,22:50,New Delhi,Mumbai,Non Stop,2h 10m,4233
+516,Vistara,UK-969/956,"Thu, 1 Sep 2022",18:10,23:15,New Delhi,Mumbai,1 Stop,5h 05m,4281
+517,Vistara,UK-929/918,"Thu, 1 Sep 2022",21:20,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,8h 55m,4281
+518,Vistara,UK-969/918,"Thu, 1 Sep 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,12h 05m,4281
+519,Vistara,UK-929/936,"Thu, 1 Sep 2022",21:20,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,12h 20m,4281
+520,Vistara,UK-969/936,"Thu, 1 Sep 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,15h 30m,4281
+521,Vistara,UK-959/956,"Thu, 1 Sep 2022",06:30,23:15,New Delhi,Mumbai,1 Stop,16h 45m,4281
+522,Vistara,UK-959/918,"Thu, 1 Sep 2022",06:30,"06:15
++ 1 day",New Delhi,Mumbai,1 Stop,23h 45m,4281
+523,Vistara,UK-929/956,"Thu, 1 Sep 2022",21:20,"23:15
++ 1 day",New Delhi,Mumbai,1 Stop,25h 55m,4281
+524,Air India,AI-817/638,"Thu, 1 Sep 2022",05:15,22:05,New Delhi,Mumbai,1 Stop,16h 50m,4286
+525,Air India,AI-887,"Fri, 2 Sep 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,1h 55m,4110
+526,Air India,AI-665,"Fri, 2 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 05m,4110
+527,Air India,AI-805,"Fri, 2 Sep 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 05m,4110
+528,Air India,AI-814,"Fri, 2 Sep 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+529,Air India,AI-678,"Fri, 2 Sep 2022",09:00,11:15,New Delhi,Mumbai,Non Stop,2h 10m,4110
+530,Air India,AI-863,"Fri, 2 Sep 2022",14:00,16:15,New Delhi,Mumbai,Non Stop,2h 20m,4110
+531,Air India,AI-441,"Fri, 2 Sep 2022",17:55,20:10,New Delhi,Mumbai,1 Stop,5h 15m,4225
+532,Air India,AI-624,"Fri, 2 Sep 2022",19:00,21:15,New Delhi,Mumbai,1 Stop,7h 00m,4225
+533,Air India,AI-605,"Fri, 2 Sep 2022",21:15,23:35,New Delhi,Mumbai,1 Stop,7h 45m,4225
+534,Air India,AI-865,"Fri, 2 Sep 2022",10:00,12:35,New Delhi,Mumbai,1 Stop,7h 45m,4225
+535,Vistara,UK-969/956,"Fri, 2 Sep 2022",18:10,23:15,New Delhi,Mumbai,1 Stop,9h 15m,4225
+536,Vistara,UK-969/936,"Fri, 2 Sep 2022",18:10,"09:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4228
+537,Air India,AI-481/638,"Fri, 2 Sep 2022",08:25,22:05,New Delhi,Mumbai,Non Stop,2h 10m,4228
+538,Air India,AI-817/638,"Fri, 2 Sep 2022",05:15,22:05,New Delhi,Mumbai,Non Stop,2h 10m,4228
+539,Vistara,UK-969/918,"Fri, 2 Sep 2022",18:10,"06:15
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+540,Vistara,UK-975,"Fri, 2 Sep 2022",05:55,07:55,New Delhi,Mumbai,Non Stop,2h 15m,4228
+541,Vistara,UK-927,"Fri, 2 Sep 2022",09:30,11:35,New Delhi,Mumbai,Non Stop,2h 15m,4228
+542,Vistara,UK-951,"Fri, 2 Sep 2022",14:20,16:30,New Delhi,Mumbai,Non Stop,2h 15m,4228
+543,Vistara,UK-933,"Fri, 2 Sep 2022",15:30,17:40,New Delhi,Mumbai,Non Stop,2h 15m,4228
+544,Vistara,UK-943,"Fri, 2 Sep 2022",07:30,09:45,New Delhi,Mumbai,Non Stop,2h 20m,4228
+545,Vistara,UK-995,"Fri, 2 Sep 2022",10:20,12:35,New Delhi,Mumbai,Non Stop,2h 35m,4228
+546,Vistara,UK-993,"Fri, 2 Sep 2022",12:45,15:00,New Delhi,Mumbai,1 Stop,5h 05m,4281
+547,Vistara,UK-963,"Fri, 2 Sep 2022",08:50,11:10,New Delhi,Mumbai,1 Stop,15h 30m,4281
+548,Vistara,UK-945,"Fri, 2 Sep 2022",11:40,14:00,New Delhi,Mumbai,1 Stop,13h 40m,4286
+549,Vistara,UK-929/936,"Fri, 2 Sep 2022",21:20,"09:40
++ 1 day",New Delhi,Mumbai,1 Stop,16h 50m,4286
+550,Go First,G8-719/459,"Sat, 3 Sep 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+551,Go First,G8-717/537,"Sat, 3 Sep 2022",17:00,21:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+552,Go First,G8-717/413,"Sat, 3 Sep 2022",17:00,23:35,New Delhi,Mumbai,1 Stop,6h 35m,4042
+553,Go First,G8-719/2505,"Sat, 3 Sep 2022",06:00,15:10,New Delhi,Mumbai,1 Stop,9h 10m,4042
+554,Go First,G8-2501,"Sat, 3 Sep 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,4108
+555,Go First,G8-334,"Sat, 3 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4108
+556,Go First,G8-336,"Sat, 3 Sep 2022",14:30,16:40,New Delhi,Mumbai,Non Stop,2h 10m,4108
+557,Go First,G8-530,"Sat, 3 Sep 2022",06:55,09:10,New Delhi,Mumbai,Non Stop,2h 15m,4108
+558,Go First,G8-338,"Sat, 3 Sep 2022",10:55,13:10,New Delhi,Mumbai,Non Stop,2h 15m,4108
+559,Go First,G8-323,"Sat, 3 Sep 2022",18:20,20:35,New Delhi,Mumbai,Non Stop,2h 15m,4108
+560,Go First,G8-346,"Sat, 3 Sep 2022",19:45,22:00,New Delhi,Mumbai,Non Stop,2h 15m,4108
+561,Go First,G8-330,"Sat, 3 Sep 2022",20:50,23:05,New Delhi,Mumbai,Non Stop,2h 15m,4108
+562,Go First,G8-354,"Sat, 3 Sep 2022",22:45,"01:00
++ 1 day",New Delhi,Mumbai,Non Stop,2h 15m,4108
+563,Air India,6E-5306,"Sat, 3 Sep 2022",15:25,17:20,New Delhi,Mumbai,Non Stop,1h 55m,4110
+564,Air India,6E-6814,"Sat, 3 Sep 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+565,SpiceJet,6E-5342,"Sat, 3 Sep 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+566,Air India,6E-2519,"Sat, 3 Sep 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+567,Air India,6E-2176,"Sat, 3 Sep 2022",14:10,16:20,New Delhi,Mumbai,Non Stop,2h 10m,4110
+568,SpiceJet,6E-6373/6425,"Sat, 3 Sep 2022",06:30,11:20,New Delhi,Mumbai,1 Stop,4h 50m,4225
+569,Air India,6E-2033/605,"Sat, 3 Sep 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+570,Air India,6E-607/605,"Sat, 3 Sep 2022",22:30,"05:30
++ 1 day",New Delhi,Mumbai,1 Stop,7h 00m,4225
+571,Air India,6E-6373/5274,"Sat, 3 Sep 2022",06:30,15:45,New Delhi,Mumbai,1 Stop,9h 15m,4225
+572,Air India,6E-607/6004,"Sat, 3 Sep 2022",22:30,"08:00
++ 1 day",New Delhi,Mumbai,1 Stop,9h 30m,4225
+573,SpiceJet,AI-887,"Sat, 3 Sep 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+574,SpiceJet,AI-665,"Sat, 3 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+575,Go First,G8-719/459,"Sun, 4 Sep 2022",06:00,10:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+576,Go First,G8-717/537,"Sun, 4 Sep 2022",17:00,21:10,New Delhi,Mumbai,1 Stop,4h 10m,4042
+577,Go First,G8-717/413,"Sun, 4 Sep 2022",17:00,23:35,New Delhi,Mumbai,1 Stop,6h 35m,4042
+578,Go First,G8-719/2505,"Sun, 4 Sep 2022",06:00,13:00,New Delhi,Mumbai,1 Stop,7h 00m,4042
+579,Go First,G8-2501,"Sun, 4 Sep 2022",02:40,04:50,New Delhi,Mumbai,Non Stop,2h 10m,4108
+580,Go First,G8-334,"Sun, 4 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4108
+581,Go First,G8-530,"Sun, 4 Sep 2022",06:55,09:10,New Delhi,Mumbai,Non Stop,2h 15m,4108
+582,IndiGo,6E-2138,"Sun, 4 Sep 2022",11:55,13:55,New Delhi,Mumbai,Non Stop,2h 00m,4110
+583,IndiGo,6E-5023,"Sun, 4 Sep 2022",06:30,08:35,New Delhi,Mumbai,Non Stop,2h 05m,4110
+584,IndiGo,6E-6814,"Sun, 4 Sep 2022",07:20,09:25,New Delhi,Mumbai,Non Stop,2h 05m,4110
+585,IndiGo,6E-5342,"Sun, 4 Sep 2022",10:45,12:50,New Delhi,Mumbai,Non Stop,2h 05m,4110
+586,IndiGo,6E-2519,"Sun, 4 Sep 2022",23:35,"01:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 05m,4110
+587,IndiGo,6E-2129,"Sun, 4 Sep 2022",08:00,10:20,New Delhi,Mumbai,Non Stop,2h 20m,4110
+588,IndiGo,6E-2033/605,"Sun, 4 Sep 2022",00:15,05:30,New Delhi,Mumbai,1 Stop,5h 15m,4225
+589,IndiGo,6E-607/605,"Sun, 4 Sep 2022",22:30,"05:30
++ 1 day",New Delhi,Mumbai,1 Stop,7h 00m,4225
+590,IndiGo,6E-2033/6004,"Sun, 4 Sep 2022",00:15,08:00,New Delhi,Mumbai,1 Stop,7h 45m,4225
+591,IndiGo,6E-2033/5268,"Sun, 4 Sep 2022",00:15,08:35,New Delhi,Mumbai,1 Stop,8h 20m,4225
+592,Air India,AI-887,"Sun, 4 Sep 2022",07:00,09:05,New Delhi,Mumbai,Non Stop,2h 05m,4228
+593,Air India,AI-665,"Sun, 4 Sep 2022",08:00,10:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+594,SpiceJet,SG-8709,"Sun, 4 Sep 2022",19:00,21:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+595,Air India,AI-805,"Sun, 4 Sep 2022",20:00,22:10,New Delhi,Mumbai,Non Stop,2h 10m,4228
+596,Air India,AI-814,"Sun, 4 Sep 2022",22:30,"00:40
++ 1 day",New Delhi,Mumbai,Non Stop,2h 10m,4228
+597,SpiceJet,SG-8701,"Sun, 4 Sep 2022",07:20,09:35,New Delhi,Mumbai,Non Stop,2h 15m,4228
+598,Air India,AI-678,"Sun, 4 Sep 2022",09:00,11:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
+599,Air India,AI-863,"Sun, 4 Sep 2022",14:00,16:15,New Delhi,Mumbai,Non Stop,2h 15m,4228
